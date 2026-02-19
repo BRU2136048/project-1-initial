@@ -1,4 +1,4 @@
-package com.csc205.project1;
+package com.csc205.project1.project1.initial;
 
 import java.util.logging.Logger;
 import java.util.logging.Level;
